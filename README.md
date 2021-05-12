@@ -1,4 +1,5 @@
-🚧 ### Digital Innovatio nOne 🚧
-#Criando um App simples de cadastro de comediantes em .net
+ # :construction: Digital Innovation One 🚧<br/>
 
-Prometo desenvolvido C# para aplicação dos conceitos do uso do padrão repositório.
+## Criando um App simples de cadastro de comediantes em .net
+
+Projeto desenvolvido em C# para aplicação dos conceitos do uso do padrão repositório.
